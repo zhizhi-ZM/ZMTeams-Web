@@ -3,7 +3,7 @@
     <div class="power" v-show="!store.playerState">
       <span
         >Copyright&nbsp;&copy;&nbsp;{{ fullYear }}
-        <a href="https://imsyy.top">無名</a>
+        <a href="https://zhimiao.ml">智喵团队</a>
       </span>
       <!-- 以下信息请不要修改哦 -->
       <span class="hidden"
