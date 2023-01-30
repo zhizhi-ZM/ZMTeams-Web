@@ -1,10 +1,10 @@
 {
-  "name": "home",
-  "author": "imsyy",
-  "github": "https://github.com/imsyy/home",
-  "home": "https://imsyy.top",
+  "name": "智喵团队丨ZNTeams",
+  "author": "zhizhi",
+  "github": "https://github.com/zmtemams",
+  "home": "https://zhimiao.",
   "private": true,
-  "version": "4.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
